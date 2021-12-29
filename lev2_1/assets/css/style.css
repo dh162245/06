@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+   }
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 7px;
+    font-size: 48px;
+    background-color: rgb(96, 103, 110);
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px black;
+}
+
+h2{
+    text-shadow: 2px 2px lightgray;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+nav p, main p{
+    text-indent: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 10px;
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+section p{
+    text-indent: 20px;
+    word-spacing: 15px;
+    background-color: lightgray;
+    line-height: 20px;
+    text-align: center;
+    margin: 20px auto;
+    padding: 4px 20px;
+}
+
+aside p{
+    color: white;
+    background-color: #333;
+    text-align: center;
+    line-height: 15px;
+    padding: 10px;
+}
+
+p strong{
+    word-spacing: -5px;
+}
